@@ -4,6 +4,14 @@
 ## Decision Statement
 Should the Ontario government prioritize funding for short-term skills training programs (micro-credentials, bootcamps, accelerated certificates) or traditional post-secondary education as a strategy to reduce youth underemployment over the next five years?
 
+
+> [!WARNING]
+> I looked for data to support this decision but most of it is is already tabulated in PDF reports, and very fragmented. Think this will be a hard question to answer without the data on short-term skills/microcredentials.  I added some links to your background that try to answer the question you've asked.
+
+> [!TIP]
+> Would you consider a pivot that investigates the employment success by degree program?   If you look here ,you can see data on employment successe - and could answer the question "I want a job, what program should I enroll in?" and potentially trend over time or show regional demand.  https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710025101
+
+
 ## Executive Summary
 Youth underemployment remains a significant challenge in Ontario’s labour market, particularly for young people attempting to transition from education into stable, well-matched employment. Many youth work in roles that do not fully utilize their skills or are unable to secure sufficient hours, which limits earnings, delays career development, and reduces long-term productivity. At the same time, employers report difficulty finding candidates with job-ready skills, creating inefficiencies for both workers and firms.
 

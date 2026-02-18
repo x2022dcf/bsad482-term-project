@@ -38,3 +38,13 @@ Government of Ontario. (2020). *Micro-credentials from Ontario’s postsecondary
 Mahboubi, P. (2019). *The causes, extent and costs of job skills mismatch in Canada*. C.D. Howe Institute. https://gro.utoronto.ca/wp-content/uploads/2019/09/Commentary_552.pdf
 
 Statistics Canada. (2026). *Labour Force Survey, December 2025*. https://www150.statcan.gc.ca/n1/daily-quotidien/260109/dq260109a-eng.htm
+
+
+
+> [!INFORMATION] Some Interesting related content, but no data:
+
+
+https://heqco.ca/wp-content/uploads/2024/03/Microcredentials-report-FINAL.pdf
+
+
+https://www150.statcan.gc.ca/n1/pub/36-28-0001/2022011/article/00003-eng.htm
