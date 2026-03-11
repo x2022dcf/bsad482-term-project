@@ -26,11 +26,11 @@ This project frames the issue as a decision problem faced by Ontario policymaker
 
 ## Visualization 1: Employment Rate by Field of Study
 
-![Employment Rate](img/viz1_employment_rate_field.png)
+![Employment Rate](img/viz1_employment_rate.png)
 
 ## Visualization 2: Median Income by Field of Study
 
-![Median Income](img/viz2_median_income_field.png)
+![Median Income](img/viz2_median_income.png)
 
 ## Visualization 3: Median Income Over Time
 
