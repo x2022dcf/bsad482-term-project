@@ -23,3 +23,19 @@ This project frames the issue as a decision problem faced by Ontario policymaker
 ![Draft Causal Loop Diagram](img/cld-draft.png)
 
 **Draft explanation:** The diagram highlights reinforcing and balancing feedback loops linking training capacity, job match quality, youth underemployment, and enrolment decisions. These loops illustrate how funding choices can improve employment outcomes while also creating potential saturation effects if program expansion outpaces labour market demand.
+
+## Visualization 1: Employment Rate by Field of Study
+
+![Employment Rate](img/viz1_employment_rate_field.png)
+
+## Visualization 2: Median Income by Field of Study
+
+![Median Income](img/viz2_median_income_field.png)
+
+## Visualization 3: Median Income Over Time
+
+![Income Over Time](img/viz3_income_over_time.png)
+
+## Visualization 4: Employment Rate vs Median Income
+
+![Employment vs Income](img/viz4_employment_vs_income.png)
