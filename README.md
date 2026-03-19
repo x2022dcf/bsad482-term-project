@@ -28,14 +28,23 @@ This project frames the issue as a decision problem faced by Ontario policymaker
 
 ![Employment Rate](img/viz1_employment_rate.png)
 
+
+This chart compares employment rates across major fields of study. Fields such as health, education, and business show the highest employment rates, while some arts and humanities fields show relatively lower outcomes. This suggests that program choice has a strong impact on early-career employment success.
 ## Visualization 2: Median Income by Field of Study
 
 ![Median Income](img/viz2_median_income.png)
 
+
+This visualization shows median income by field of study. STEM and technical programs such as engineering and computer science tend to produce higher median earnings compared to non-technical fields. This indicates that field of study influences not only employment but also earning potential.
 ## Visualization 3: Median Income Over Time
 
 ![Income Over Time](img/viz3_income_over_time.png)
 
+
+This line chart shows how income evolves over time after graduation. Fields such as engineering and health demonstrate stronger income growth trajectories, while others grow more slowly. This highlights long-term differences in career outcomes across education pathways.
 ## Visualization 4: Employment Rate vs Median Income
 
 ![Employment vs Income](img/viz4_employment_vs_income.png)
+
+
+This scatter plot examines the relationship between employment rate and median income. There is a positive relationship, meaning fields with higher employment rates also tend to have higher incomes. This reinforces the importance of choosing a field aligned with labour market demand.
