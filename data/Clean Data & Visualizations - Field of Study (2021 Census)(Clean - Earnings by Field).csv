@@ -1,0 +1,15 @@
+﻿Major Field of Study,Total Population,With Employment Income,Median Employment Income ($),Average Employment Income ($),Income Participation Rate,Source
+Health and related fields,"2,444,500","1,854,055","$46,000","$56,000",75.8%,"Statistics Canada, Table 98-10-0409-01, 2021 Census"
+"Business, management & public admin","3,758,250","2,971,960","$48,400","$66,400",79.1%,"Statistics Canada, Table 98-10-0409-01, 2021 Census"
+"Architecture, engineering & trades","3,506,120","2,770,415","$56,400","$65,800",79.0%,"Statistics Canada, Table 98-10-0409-01, 2021 Census"
+"Math, computer & info sciences","804,230","656,470","$59,200","$70,300",81.6%,"Statistics Canada, Table 98-10-0409-01, 2021 Census"
+Education,"1,113,015","764,830","$53,600","$55,650",68.7%,"Statistics Canada, Table 98-10-0409-01, 2021 Census"
+Physical & life sciences and tech,"719,720","563,660","$46,400","$60,950",78.3%,"Statistics Canada, Table 98-10-0409-01, 2021 Census"
+Social & behavioural sciences and law,"2,016,120","1,620,290","$44,800","$60,600",80.4%,"Statistics Canada, Table 98-10-0409-01, 2021 Census"
+"Agriculture, natural resources & conservation","407,545","333,330","$42,400","$51,600",81.8%,"Statistics Canada, Table 98-10-0409-01, 2021 Census"
+"Personal, protective & transportation","1,006,425","786,275","$34,400","$44,360",78.1%,"Statistics Canada, Table 98-10-0409-01, 2021 Census"
+Humanities,"926,555","682,270","$36,800","$48,640",73.6%,"Statistics Canada, Table 98-10-0409-01, 2021 Census"
+"Visual & performing arts, communications","631,255","498,930","$30,800","$40,480",79.0%,"Statistics Canada, Table 98-10-0409-01, 2021 Census"
+,,,,,,
+Data Wrangling Notes:,,,,,,
+"Source: Statistics Canada, Table 98-10-0409-01, 2021 Census. Cleaned: removed 16 metadata header rows, extracted 11 major field summary rows from 538 raw rows, removed 33 suppressed values ('...') and 19 confidential values ('x'), stripped commas from numeric fields, calculated income participation rate as formula.",,,,,,
