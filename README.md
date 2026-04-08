@@ -51,7 +51,7 @@ This scatter plot examines the relationship between employment rate and median i
 
 ## System Dynamics
 
-![Final CLD](img/cld_final.png)
+![Final CLD](img/Field%20of%20study%20choices%20and%20diagram.png)
 
 This diagram illustrates how field of study choices influence early-career employment outcomes in Ontario. A reinforcing loop shows how high-performing fields continue to grow through stronger employment and income outcomes, while a balancing loop highlights the risk of oversaturation as more students enter these fields.
 
