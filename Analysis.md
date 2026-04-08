@@ -5,6 +5,8 @@ If a student in Ontario wants strong early-career employment outcomes, which pos
 
 ## System Archetype: Success to the Successful
 
+![Archetype Diagram](img/archetype_diagram.png)
+
 The “Success to the Successful” archetype is evident in the relationship between field of study and early-career outcomes. Fields such as health, engineering, and business demonstrate strong employment rates and higher median incomes. As a result, these programs attract more students, receive greater institutional attention, and continue to produce strong outcomes.
 
 In contrast, fields with lower employment rates and lower earnings may experience weaker enrollment growth over time. This creates a reinforcing pattern in which successful programs continue to strengthen while less successful programs become less attractive to students seeking strong early-career outcomes.
