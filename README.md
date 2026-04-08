@@ -46,6 +46,7 @@ This line chart shows how income evolves over time after graduation. Fields such
 
 ![Employment vs Income](img/viz4_employment_vs_income.png)
 
+![Final CLD](img/cld_final.png)
 
 This scatter plot examines the relationship between employment rate and median income. There is a positive relationship, meaning fields with higher employment rates also tend to have higher incomes. This reinforces the importance of choosing a field aligned with labour market demand.
 
