@@ -58,3 +58,10 @@ This diagram illustrates how field of study choices influence early-career emplo
 ## Milestone 3 Analysis
 
 See the full analysis here: [Analysis.md](Analysis.md)
+
+
+## Final Analysis
+
+See full Milestone 4 analysis here:  
+[Milestone 4](Milestone4.md)
+
