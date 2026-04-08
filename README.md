@@ -49,6 +49,11 @@ This line chart shows how income evolves over time after graduation. Fields such
 
 This scatter plot examines the relationship between employment rate and median income. There is a positive relationship, meaning fields with higher employment rates also tend to have higher incomes. This reinforces the importance of choosing a field aligned with labour market demand.
 
+## System Dynamics
+
+![Final CLD](img/cld_final.png)
+
+This diagram illustrates how field of study choices influence early-career employment outcomes in Ontario. A reinforcing loop shows how high-performing fields continue to grow through stronger employment and income outcomes, while a balancing loop highlights the risk of oversaturation as more students enter these fields.
 
 ## Milestone 3 Analysis
 
